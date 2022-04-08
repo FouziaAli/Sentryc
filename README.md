@@ -10,7 +10,7 @@ Simply run following command from root folder:
 
 ## Running Tests
 
-Run following command to run all tests:
+Run following command to run all the tests from the root folder:
 
 `npm run cy:run`
 
